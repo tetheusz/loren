@@ -1,5 +1,5 @@
 // Set the date we're counting down to
-var daysCount = new Date("oct 25, 2024 00:00:00").getTime();
+var daysCount = new Date("oct 26, 2024 00:00:00").getTime();
 
 
 // Update the count down every 1 second
